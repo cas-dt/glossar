@@ -2,26 +2,28 @@
 
 Bitte für neue Einträge einen ‘Pull Request’ machen.
 
-Frontend Design
-Backend Design
-Agile Software Development
-Wasserfallmodell
-Scrum
-Extreme Programming
-API
-Design Patterns
-Style Guide
-Style Tiles
-Reflow
-Responsive Web Design
-Fluid Web Design
-Adaptive Web Design
-Accessibility
-User Experience
-User Interface
-Mobile First
-User Centered Design
-Stakeholder
+Provisorische Einträge:
+
+* []Frontend Design
+* []Backend Design
+* [*]Agile Software Development
+* [*]Wasserfallmodell
+* []Scrum
+* []Extreme Programming
+* []API
+* []Design Patterns
+* []Style Guide
+* []Style Tiles
+* []Reflow
+* []Responsive Web Design
+* []Fluid Web Design
+* []Adaptive Web Design
+* []Accessibility
+* [*]User Experience
+* []User Interface
+* []Mobile First
+* []User Centered Design
+* []Stakeholder
 
 
 ### Wasserfallmodell
@@ -35,7 +37,9 @@ Modell, das den idealen Prozess zur Software-Entwicklung zu illustrieren versuch
 Methoden (es gibt unterschiedliche Ansätze) zur Entwicklung von Software, die versuchen, durch flexiblere Arbeitsprozesse und Teamwork effizienter als der Wasserfall zu sein.
 Siehe auch: [Scrum](https://de.wikipedia.org/wiki/Scrum), [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)), [Extreme Programming](https://de.wikipedia.org/wiki/Extreme_Programming)
 
-User Experience
+### User Experience
+
 Hier Jesse James Garrets Modell zeigen
+
 * [Jesse James Garrett, The Nine Pillars](docs/9-pillars.pdf)
 * [Jesse James Garrett, The Elements of User Experience](docs/elements_of_UX.pdf)
