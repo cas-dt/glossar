@@ -4,26 +4,26 @@ Bitte für neue Einträge einen ‘Pull Request’ machen.
 
 Provisorische Einträge:
 
-* []Frontend Design
-* []Backend Design
-* [*]Agile Software Development
-* [*]Wasserfallmodell
-* []Scrum
-* []Extreme Programming
-* []API
-* []Design Patterns
-* []Style Guide
-* []Style Tiles
-* []Reflow
-* []Responsive Web Design
-* []Fluid Web Design
-* []Adaptive Web Design
-* []Accessibility
-* [*]User Experience
-* []User Interface
-* []Mobile First
-* []User Centered Design
-* []Stakeholder
+* [ ] Frontend Design
+* [ ] Backend Design
+* [x] Agile Software Development
+* [x] Wasserfallmodell
+* [ ] Scrum
+* [ ] Extreme Programming
+* [ ] API
+* [ ] Design Patterns
+* [ ] Style Guide
+* [ ] Style Tiles
+* [ ] Reflow
+* [ ] Responsive Web Design
+* [ ] Fluid Web Design
+* [ ] Adaptive Web Design
+* [ ] Accessibility
+* [x] User Experience
+* [ ] User Interface
+* [ ] Mobile First
+* [ ] User Centered Design
+* [ ] Stakeholder
 
 
 ### Wasserfallmodell
