@@ -37,3 +37,5 @@ Siehe auch: [Scrum](https://de.wikipedia.org/wiki/Scrum), [Kanban](https://de.wi
 
 User Experience
 Hier Jesse James Garrets Modell zeigen
+* [Jesse James Garrett, The Nine Pillars](docs/9-pillars.pdf)
+* [Jesse James Garrett, The Elements of User Experience](docs/elements_of_UX.pdf)
