@@ -4,9 +4,14 @@ Bitte für neue Einträge einen ‘Pull Request’ machen.
 
 Provisorische Einträge:
 
+* [ ] Webfont
+* [ ] Self-Hosted
+* [ ] CDN
+* [ ] Framework
+* [ ] Flash of Unstyled Text (FOUT)
 * [ ] Frontend Design
 * [ ] Backend Design
-* [x] Agile Software Development
+* [x] [Agile Software Development](#Agile-Software-Development)
 * [x] Wasserfallmodell
 * [ ] Scrum
 * [ ] Extreme Programming
