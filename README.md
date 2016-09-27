@@ -4,7 +4,9 @@ Bitte für neue Einträge einen ‘Pull Request’ machen.
 
 Provisorische Einträge:
 
-* [ ] Webfont
+* [ ] Viewport
+* [ ] Browser
+* [x] Webfont
 * [ ] Self-Hosted
 * [ ] CDN
 * [ ] Framework
@@ -30,6 +32,10 @@ Provisorische Einträge:
 * [ ] User Centered Design
 * [ ] Stakeholder
 
+### Agile Software Development
+
+Methoden (es gibt unterschiedliche Ansätze) zur Entwicklung von Software, die versuchen, durch flexiblere Arbeitsprozesse und Teamwork effizienter als der *Wasserfall* zu sein.
+Siehe auch: [Scrum](https://de.wikipedia.org/wiki/Scrum), [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)), [Extreme Programming](https://de.wikipedia.org/wiki/Extreme_Programming)
 
 ### Wasserfallmodell
 
@@ -37,12 +43,13 @@ Modell, das den idealen Prozess zur Software-Entwicklung zu illustrieren versuch
 
 * [Wikipedia: Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell)
 
-### Agile Software Development
+### Webfont
 
-Methoden (es gibt unterschiedliche Ansätze) zur Entwicklung von Software, die versuchen, durch flexiblere Arbeitsprozesse und Teamwork effizienter als der Wasserfall zu sein.
-Siehe auch: [Scrum](https://de.wikipedia.org/wiki/Scrum), [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)), [Extreme Programming](https://de.wikipedia.org/wiki/Extreme_Programming)
+Eine Font-Datei, die von Browsern gelesen werden kann. Gängige Formate sind .eot, .otf, .woff und .woff2.
 
-### User Experience
+* [Bram Stein über fast alles, was man wissen sollte](https://www.youtube.com/watch?v=fFqTjWDVb0w)
+
+### User Experience (UX)
 
 Eine unscharfe Definition, die zwischen Buzzword und Fachterminologie rangiert, poupularisiert durch [Don Norman](https://en.wikipedia.org/wiki/Don_Norman). Im Zusammenhang mit Web Design ist der Begriff ein Gradmesser für Benutzerfreundlichkeit. Man könnte sagen, die User Experience umschreibe die Gefühle des Benutzers während der Interaktion mit einem User Interface. Die Popularität des Begriffs lässt sich darauf zurückführen, dass er einen gemeinsamen Nenner bildet, unter dem Marketing-Fachleute, Designer und Techniker ungefähr das Gleiche verstehen.
 
