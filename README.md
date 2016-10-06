@@ -19,8 +19,8 @@ Provisorische Einträge:
 * [x] API
 * [x] Design Patterns
 * [x] Style Guide
+* [x] Reflow
 * [ ] Style Tiles
-* [ ] Reflow
 * [ ] Responsive Web Design
 * [ ] Fluid Web Design
 * [ ] Adaptive Web Design
@@ -34,8 +34,17 @@ Provisorische Einträge:
 * [ ] Native
 * [ ] Web
 * [ ] Internet
-* [ ] Reflow
 * [ ] Performance
+* [ ] Landing Page
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
 * [ ]
 
 ### Agile Software Development
@@ -87,24 +96,29 @@ In beiden Fällen wird kritisiert, dass meist nur ein Bruchteil des Frameworks b
 
 ## Flash of Unstyled Text (FOUT)
 
-Wenn der Browser die Webfonts noch nicht geladen hat, zeigt er einen *Fallback-Font*. Meist dauert dies nur einen Augenblick, darum ‘Flash’. Es gibt Browser, die gar nichts zeigen, bis die Fonts geladen sind und auch dafür gibt es eine Abkürzung, diese entfällt mir aber im Moment.
+Auch «FOUC» (flash of unstyled content). Wenn der Browser die Webfonts noch nicht geladen hat, zeigt er einen *Fallback-Font*. Meist dauert dies nur einen Augenblick, darum ‘Flash’. Es gibt Browser, die gar nichts zeigen, bis die Fonts geladen sind: «FOIC» (flash of invisible text).
 
-## Frontend Design
+## Front End Design, Front End Engineering
 
 Das Programmieren von Websites mit HTML, CSS und JavaScript, bzw. entpsrechenden *Frameworks*.
+Weder Design noch Engineering sind besonders glückliche Bezeichnungen.
 
-## Backend Design
+## Back End Design, Back End Engineering
 
-Das programmieren Serverseitiger Software. Z.B. mit Python und PHP. Frontend und Backend lassen sich nicht immer klar trennen. Faustregel: Alles was in den Browser kommt, ist Frontend.
+Das programmieren Serverseitiger Software. Z.B. mit Python und PHP. Front End und Back End lassen sich nicht immer klar trennen. Faustregel: Alles was in den Browser kommt, ist Front End.
 
 ## API
 
 Eine Schnittstelle für eine Programmiersprache.
 
+## Reflow
+
+Wenn das Satzbild sich durch eine Änderung im Text sich ändert, z.B. die Zeilen anders umbrechen, weil ein Wort breiter wurde.
+Es gibt Schriften, die extra dafür konzipiert sind, dass es keinen *reflow* gibt, wenn Schnitte gegeneinander ausgetauscht werden, z.B. [Action](http://action.commercialtype.com/) von Erik van Blokland.
+
 ## Design Patterns
 ## Style Guide
 ## Style Tiles
-## Reflow
 ## Responsive Web Design
 ## Fluid Web Design
 ## Adaptive Web Design
