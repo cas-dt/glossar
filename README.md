@@ -36,6 +36,7 @@ Provisorische Einträge:
 * [ ] Internet
 * [ ] Performance
 * [ ] Landing Page
+* [ ] GUI
 * [ ]
 * [ ]
 * [ ]
