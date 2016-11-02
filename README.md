@@ -37,6 +37,7 @@ Provisorische Einträge:
 * [ ] Performance
 * [ ] Landing Page
 * [ ] GUI
+* [ ] Error 404
 * [ ]
 * [ ]
 * [ ]
@@ -46,7 +47,12 @@ Provisorische Einträge:
 * [ ]
 * [ ]
 * [ ]
-* [ ]
+
+### Error 404
+
+Wenn ein Server zu einer Anfrage keinen passenden Inhalt findet, antwortet er mit einer Fehlermeldung, die eine dreistellige Zahl enthält. Dies geschieht z.B. weil ein Link einen Fehler enthält oder einen gelöschten Inhalt referenziert.
+Der häufigste Fehlertyp (kein Inhalt unter einem best. Link) ist [404](https://en.wikipedia.org/wiki/HTTP_404).
+Vollständigkeitshalber muss man sagen, dass ein Server jede Anfrage mit einem Zahlencode (‘[HTTP Response Status Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)’) beantwortet. Im Browser angezeigt werden diese aber nur bei Fehlermelundgen.
 
 ### Agile Software Development
 
