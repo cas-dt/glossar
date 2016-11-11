@@ -20,6 +20,8 @@ Provisorische Einträge:
 * [x] Design Patterns
 * [x] Style Guide
 * [x] Reflow
+* [x] Error 404
+* [ ] Holy Grail Layout
 * [ ] Style Tiles
 * [ ] Responsive Web Design
 * [ ] Fluid Web Design
@@ -37,7 +39,6 @@ Provisorische Einträge:
 * [ ] Performance
 * [ ] Landing Page
 * [ ] GUI
-* [ ] Error 404
 * [ ]
 * [ ]
 * [ ]
@@ -51,8 +52,24 @@ Provisorische Einträge:
 ### Error 404
 
 Wenn ein Server zu einer Anfrage keinen passenden Inhalt findet, antwortet er mit einer Fehlermeldung, die eine dreistellige Zahl enthält. Dies geschieht z.B. weil ein Link einen Fehler enthält oder einen gelöschten Inhalt referenziert.
+
 Der häufigste Fehlertyp (kein Inhalt unter einem best. Link) ist [404](https://en.wikipedia.org/wiki/HTTP_404).
+
 Vollständigkeitshalber muss man sagen, dass ein Server jede Anfrage mit einem Zahlencode (‘[HTTP Response Status Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)’) beantwortet. Im Browser angezeigt werden diese aber nur bei Fehlermelundgen.
+
+### Holy Grail Layout
+
+Der «heilige Gral» des Web Designs bezeichnet eine weit verbreitete Art der Anordnung von Titel, Navigation, Inhalt, Werbung (o.ä.) und Fusszeile einer Webseite. Der Titel und die Fusszeile befinden sich am oberen, bzw. unteren Rand und fassen Navigation, Inhalt und Werbung in drei parallelen Spalten ein.
+
+Diese Art Anordnung ist mit CSS nicht ganz einfach herzustellen. Insbesondere kann es problematisch sein, die Spalten so nebeneinander anzuordnen, dass sie gleich lang sind oder so, dass die Fusszeile am unteren Rand des Viewports positioniert wird.
+
+Mit der ersten Auflage von CSS war dies praktisch unmöglich. Deshalb war es gängige Praxis, die Inhalte in HTML-Tabellen zu verschachteln – ein Ansatz, der aus verschiedenen Gründen problematisch war: Die Zweckentfremdung von strukturgegebenden Elementen (in diesem Fall HTML-Tabellen) erschwerte beispielsweise die korrekte Interpretation von Markup für Ausgabegeräte. Das Layouten mit HTML-Elementen statt mit CSS behinderte den Unterhalt des Quelltexts (diese Aussage wird der Frustration, die in der Praxis entstand, in keiner Weise gerecht).
+
+Mit der zweiten und dritten Auflage von CSS wurde das Layouten mit Spalten einfacher. Das Gestalten von Websites auf Basis eines Rasters wurde zumindest ansatzweise möglich. Aber auch dafür war es (und ist es zum Zeitpunkt der Verfassung dieses Textes) notwendig, auf verschachtelte HTML-Elemente (v.a. den div-Tag) zurückzugreifen: Der Raster ist nicht Bestandteil von CSS. Vielmehr müssen HTML-Elemente mit CSS-Regeln so positioniert werden, dass sich das Layout Raster-artig präsentiert.  
+
+Die Probleme, die durch das Layouten mit Tabellen entstanden, wurden durch die Möglichkeiten in CSS 2 und 3 also nur teilweise gelöst. Und die Anforderungen, die eine Vielzahl von Ausgabegeräten mit unterschiedlichen Bildschirmgrössen stellen, machen das Layouten in Spalten zu einer noch komplexeren technischen Herausforderung.
+
+Eine einigermassen befriedigende Lösung wird es erst geben, wenn sich Raster wirklich mit CSS beschreiben und formatieren lassen. Gegenwärtig liegt ein Entwurf für ein [Layout System auf CSS-Basis](https://drafts.csswg.org/css-grid/) vor, der voraussichtlich innerhalb des nächsten Jahres (2017) in neuen Browser-Versionen umgesetzt wird.
 
 ### Agile Software Development
 
