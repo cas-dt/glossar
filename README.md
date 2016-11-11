@@ -59,7 +59,7 @@ Vollständigkeitshalber muss man sagen, dass ein Server jede Anfrage mit einem Z
 
 ### Holy Grail Layout
 
-Der «heilige Gral» des Web Designs bezeichnet eine weit verbreitete Art der Anordnung von Titel, Navigation, Inhalt, Werbung (o.ä.) und Fusszeile einer Webseite. Der Titel und die Fusszeile befinden sich am oberen, bzw. unteren Rand und fassen Navigation, Inhalt und Werbung in drei parallelen Spalten ein.
+Der [«heilige Gral» des Web Designs](https://en.wikipedia.org/wiki/Holy_Grail_(web_design)) bezeichnet eine weit verbreitete Art der Anordnung von Titel, Navigation, Inhalt, Werbung (o.ä.) und Fusszeile einer Webseite. Der Titel und die Fusszeile befinden sich am oberen, bzw. unteren Rand und fassen Navigation, Inhalt und Werbung in drei parallelen Spalten ein.
 
 Diese Art Anordnung ist mit CSS nicht ganz einfach herzustellen. Insbesondere kann es problematisch sein, die Spalten so nebeneinander anzuordnen, dass sie gleich lang sind oder so, dass die Fusszeile am unteren Rand des Viewports positioniert wird.
 
