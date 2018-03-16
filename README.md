@@ -76,7 +76,7 @@ Eine einigermassen befriedigende Lösung wird es erst geben, wenn sich Raster wi
 Methoden (es gibt unterschiedliche Ansätze) zur Entwicklung von Software, die versuchen, durch flexiblere Arbeitsprozesse und Teamwork effizienter als der *Wasserfall* zu sein.
 Siehe auch: [Scrum](https://de.wikipedia.org/wiki/Scrum), [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)), [Extreme Programming](https://de.wikipedia.org/wiki/Extreme_Programming)
 
-### Wasserfallmodell
+### Wasserfallmodell
 
 Modell, das den idealen Prozess zur Software-Entwicklung zu illustrieren versucht. Ist immer noch aktuell, wird aber z.T. als ineffizient und kostenintensiv bezeichnet.
 
