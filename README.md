@@ -40,7 +40,7 @@ Provisorische Einträge:
 * [ ] Landing Page
 * [x] GUI
 * [x] CLI
-* [ ]
+* [ ] Skeuomorphismus
 * [ ]
 * [ ]
 * [ ]
