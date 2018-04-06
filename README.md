@@ -88,7 +88,7 @@ Eine Font-Datei, die von Browsern gelesen werden kann. Gängige Formate sind .eo
 
 * [Bram Stein über fast alles, was man wissen sollte](https://www.youtube.com/watch?v=fFqTjWDVb0w)
 
-### User Experience (UX)
+### User Experience (UX)
 
 Eine unscharfe Definition, die zwischen Buzzword und Fachterminologie rangiert, poupularisiert durch [Don Norman](https://en.wikipedia.org/wiki/Don_Norman). Im Zusammenhang mit Web Design ist der Begriff ein Gradmesser für Benutzerfreundlichkeit. Man könnte sagen, die User Experience umschreibe die Gefühle des Benutzers während der Interaktion mit einem User Interface. Die Popularität des Begriffs lässt sich darauf zurückführen, dass er einen gemeinsamen Nenner bildet, unter dem Marketing-Fachleute, Designer und Techniker ungefähr das Gleiche verstehen.
 
