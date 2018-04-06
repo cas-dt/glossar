@@ -38,8 +38,8 @@ Provisorische Einträge:
 * [ ] Internet
 * [ ] Performance
 * [ ] Landing Page
-* [ ] GUI
-* [ ]
+* [x] GUI
+* [x] CLI
 * [ ]
 * [ ]
 * [ ]
@@ -139,6 +139,14 @@ Eine Schnittstelle für eine Programmiersprache.
 
 Wenn das Satzbild sich durch eine Änderung im Text sich ändert, z.B. die Zeilen anders umbrechen, weil ein Wort breiter wurde.
 Es gibt Schriften, die extra dafür konzipiert sind, dass es keinen *reflow* gibt, wenn Schnitte gegeneinander ausgetauscht werden, z.B. [Action](http://action.commercialtype.com/) von Erik van Blokland.
+
+## GUI
+
+Graphical User Interface. Ein Interface mit graphischen Komponenten, die das Arbeiten intuitiver gestalten als beispielsweise die Verwendung von Textkommandos (siehe *CLI*, *Skeuomorphismus*).
+
+## CLI
+
+‘Command Line Interface’. Die Möglichkeit, den Computer mittels Eingabe von Textkommandos zu steuern. Das *Terminal* auf Apple Rechnern ist ein Beispiel. Auch genannt ‘Shell’.
 
 ## Design Patterns
 ## Style Guide
