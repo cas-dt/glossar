@@ -120,12 +120,13 @@ In beiden Fällen wird kritisiert, dass meist nur ein Bruchteil des Frameworks b
 
 ## Flash of Unstyled Text (FOUT)
 
-Auch «FOUC» (flash of unstyled content). Wenn der Browser die Webfonts noch nicht geladen hat, zeigt er einen *Fallback-Font*. Meist dauert dies nur einen Augenblick, darum ‘Flash’. Es gibt Browser, die gar nichts zeigen, bis die Fonts geladen sind: «FOIC» (flash of invisible text).
+Auch «FOUC» (flash of unstyled content). Wenn der Browser die Webfonts noch nicht geladen hat, zeigt er einen *Fallback-Font*. Meist dauert dies nur einen Augenblick, darum ‘Flash’. Es gibt Browser, die gar nichts zeigen, bis die Fonts geladen sind: «FOIT» (flash of invisible text).
 
 ## Front End Design, Front End Engineering
 
 Das Programmieren von Websites mit HTML, CSS und JavaScript, bzw. entpsrechenden *Frameworks*.
-Weder Design noch Engineering sind besonders glückliche Bezeichnungen.
+
+Weder ‘Design‘ noch ‘Engineering‘ sind besonders glückliche Bezeichnungen.
 
 ## Back End Design, Back End Engineering
 
